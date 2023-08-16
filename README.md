@@ -1,7 +1,71 @@
 <h1 align="center">Hi 👋, I'm Akhand Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhandchauhan" alt="akhandchauhan" /></a> </p>
+<p align="left"> <a href="h<style>
+    body {
+        background-color: #0D1117;
+    }
+
+    .profile-image {
+        float: left;
+        margin-right: 20px;
+    }
+</style>
+
+<h1 align="center">Hi 👋, I'm Akhand Chauhan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<img class="profile-image" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
+
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhandchauhan" alt="akhandchauhan" /></a>
+</p>
+
+- 🔭 I’m currently working on **Deep Learning Project**
+- 🌱 I’m currently learning **Keras,Tensorflow**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akhandchauhan47/" target="_blank"><img align= "center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= "https://www.linkedin.com/in/akhandchauhan47/" height= "30" width= "40" /></a></p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src = "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+alt = "azure"
+width = "40"
+height = "40"/></a>
+<!-- Add more icons as per your requirement -->
+</p>
+
+<p><img align ="center"
+src =" https: //github-readme-stats.vercel.app/api/top-langs?username= akhandchauhan & show_icons=true&locale=en&layout =
+compact "
+alt =" akhandchauhan "/></p >
+
+<img width ="50%"align =
+  right
+  alt =
+  "Github Image "
+    src=
+"https:
+//raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
+
+<p>&nbsp;< img
+align=center
+src=
+"https:
+//github-readme-stats.vercel.app/api?username=akhand chauhan &show_icons=true&locale=en"
+alt=
+   “akhandchauhan ”/></ p >
+
+ < p >
+< img
+align=”center”
+src=” https :
+//github -readme-streak -stats.herokuapp .com/?user= akhand chauhan &
+“ alt=” akhand chauhan ”/>
+</p >ttps://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhandchauhan" alt="akhandchauhan" /></a> </p>
 
 - 🔭 I’m currently working on **Deep Learning Project**
 

@@ -102,5 +102,5 @@ Here are some ideas to get you started:
 <img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
 
-[linkedin]: https://www.linkedin.com/in/jha-vineet/
-[gmail]: mailto:vineetjha3388@gmail.com
+[linkedin]: https://www.linkedin.com/in/akhandchauhan47/
+[gmail]: mailto:akhandchauhanp1@gmail.com

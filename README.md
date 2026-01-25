@@ -1,39 +1,49 @@
+<!-- HERO SECTION -->
 <h1 align="center">
   👋 Hi, I'm <span style="color:#00E5FF;">Akhand Chauhan</span>
 </h1>
 
 <h3 align="center">
-  🚀 Data Engineer | Python | Cloud | Distributed Systems
+  Data Engineer • Cloud • Distributed Systems • MLOps
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Data+Engineering+%26+MLOps;SQL+%7C+Python+%7C+PySpark;AWS+%7C+Airflow+%7C+Kubernetes;Building+Reliable+Data+Systems" />
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=JetBrains+Mono
+    &size=22
+    &pause=1000
+    &color=00E5FF
+    &center=true
+    &vCenter=true
+    &width=700
+    &lines=Engineering+Scalable+Data+Pipelines;
+            SQL+%7C+Python+%7C+PySpark;
+            Airflow+%7C+AWS+%7C+Kubernetes;
+            Observability+%7C+Reliability+%7C+Automation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=10"/>
 </p>
 
 ---
 
+<!-- ABOUT -->
 ## 🧠 About Me
-- 🔹 Data Engineer focused on **scalable pipelines & cloud-native architectures**
-- 🔹 Strong in **SQL, Python, distributed processing, and orchestration**
-- 🔹 Hands-on with **AWS data services, containerization & MLOps tooling**
-- 🔹 Passionate about **clean data models, reliability, and automation**
+- 🚀 Building **production-grade data pipelines**
+- 🧩 Strong focus on **reliability, observability & scale**
+- ☁️ Hands-on with **AWS data engineering services**
+- 🔁 Experience with **ETL orchestration, streaming & batch**
+- 🧪 Applying **MLOps principles** to data workflows
 
 ---
 
-## 🌐 Connect With Me
+<!-- TECH STACK -->
+## 🛠️ Tech Stack (Data Engineering & MLOps)
+
+### ⚙️ Languages & Data Libraries
 <p align="center">
-  <a href="https://linkedin.com/in/akhandchauhan47/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack — Data Engineering & MLOps
-
-### ⚙️ Core Languages & Data Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sql&theme=dark"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
 </p>
@@ -42,83 +52,90 @@
 
 ### 🌐 APIs & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
-</p>
-
----
-
-### ☁️ AWS – Data Engineering Services
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redshift-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lambda-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark"/>
 </p>
 
 ---
 
 ### 📦 Big Data & Orchestration
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="50"/>
+</p>
+
+<p align="center"><b>PySpark • Apache Airflow</b></p>
+
+---
+
+### ☁️ AWS – Data Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark"/>
 </p>
 
 <p align="center">
-  <b>PySpark • Apache Airflow</b>
+  <img src="https://img.shields.io/badge/S3-232F3E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Glue-232F3E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redshift-232F3E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lambda-232F3E?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🧠 MLOps & Experiment Tracking
+### 🧠 MLOps & Data Versioning
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.svg" width="90"/>
-  <img src="https://raw.githubusercontent.com/iterative/dvc/develop/docs/static/img/dvc-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.svg" width="100"/>
+  <img src="https://raw.githubusercontent.com/iterative/dvc/develop/docs/static/img/dvc-icon.svg" width="50"/>
 </p>
 
 ---
 
-### 🐳 DevOps, CI/CD & Infra
+### 🐳 DevOps & Infra
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github&theme=dark"/>
 </p>
 
 ---
 
 ### 📊 Monitoring & Observability
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" width="50"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- STATS -->
+## 📈 GitHub Activity
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhandchauhan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhandchauhan&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhandchauhan&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhandchauhan&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhandchauhan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhandchauhan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+<!-- ACHIEVEMENTS -->
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhandchauhan&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app
+    /?username=akhandchauhan
+    &theme=onestar
+    &no-frame=true
+    &row=1
+    &column=6"/>
 </p>
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0077FF&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  <b>⚡ Engineering data systems that scale, observe, and endure.</b>
+  ⚡ <b>Engineering data systems that scale, observe, and endure.</b>
 </p>

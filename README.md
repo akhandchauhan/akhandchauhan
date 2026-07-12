@@ -4,12 +4,12 @@
 
 <p align="center">
   <sub>
-    Data Engineer · Cloud · Distributed Systems · MLOps
+    Data Engineer · Batch & Cloud Pipelines · Data Platforms
   </sub>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Engineering+reliable+data+systems;Python+%7C+SQL+%7C+PySpark;Airflow+%7C+AWS+%7C+Kubernetes;Observability+%7C+Automation+%7C+Scale" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Building+data+pipelines+that+run+on+schedule;Python+%7C+SQL+%7C+PySpark;Airflow+%7C+GCP+%7C+Docker;ETL+%7C+Data+Modeling+%7C+Orchestration" />
 </p>
 
 <br/>
@@ -17,35 +17,28 @@
 ---
 
 ## About
-I design and build **production-grade data platforms** with a strong focus on  
-**reliability, observability, and scale**.
+I build data pipelines and analytics platforms — from local PySpark/Airflow environments to cloud-native ETL on GCP.
 
-- Building end-to-end **ETL & analytics pipelines**
-- Strong foundation in **SQL, Python, and distributed processing**
-- Hands-on with **AWS-native data engineering**
-- Applying **MLOps principles** to data workflows
+- End-to-end pipelines: ingestion → transformation → warehouse → BI (see [NYC-Uber-Analytics-Using-GCP-MAGE](https://github.com/akhandchauhan/NYC-Uber-Analytics-Using-GCP-MAGE))
+- Lakehouse / medallion architecture (bronze → silver → gold) on Microsoft Fabric (see [EarthquakeMonitor_MSFabric](https://github.com/akhandchauhan/EarthquakeMonitor_MSFabric))
+- Orchestration with Apache Airflow — branching, trigger rules, TaskFlow API (see [Airflow_practice](https://github.com/akhandchauhan/Airflow_practice))
+- Currently deepening dbt for warehouse transformation and testing
 
 ---
 
 ## Tech Stack
 
 ### Core
-`Python` · `SQL` · `Pandas` · `NumPy`
+`Python` · `SQL` · `Pandas`
 
 ### Data Engineering
-`PySpark` · `Apache Airflow`
+`PySpark` · `Apache Airflow` · `Mage` · `dbt` *(learning)*
 
-### Cloud (AWS)
-`S3` · `Glue` · `Redshift` · `Athena` · `EMR` · `Kinesis` · `Lambda`
+### Cloud & Platform
+`GCP (Cloud Storage, Compute Engine, BigQuery)` · `Microsoft Fabric` · `Docker`
 
-### APIs & Services
-`FastAPI` · `REST`
-
-### MLOps
-`MLflow` · `DVC`
-
-### Platform & Observability
-`Docker` · `Kubernetes` · `GitHub` · `Grafana`
+### APIs & BI
+`FastAPI` · `REST` · `Looker Studio` · `Power BI`
 
 ---
 

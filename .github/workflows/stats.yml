@@ -1,0 +1,51 @@
+name: stats-cards
+
+# Renders the GitHub stats card as static SVGs (dark + light) once a day.
+# Published to the `stats` branch, not `main`, so bot commits never show up
+# in the profile's contributors list. README reads them via raw.githubusercontent.com.
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: [".github/workflows/stats.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: mkdir -p dist
+
+      - name: Stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9"
+          path: dist/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0891B2&icon_color=0891B2&text_color=24292F"
+          path: dist/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      # fail_on_error above stops the job before this step, so a failed fetch
+      # never overwrites the last good cards.
+      - name: Publish to stats branch
+        run: |
+          cd dist
+          git init -q -b stats
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -qm "update stats cards"
+          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" stats

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Akhand Chauhan, Data Engineer">
+  <!-- minimal: transparent background, one accent (#0891B2), one effect (typed line) -->
+  <defs>
+    <clipPath id="t1"><rect x="420" y="196" height="30" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;480;480;0;0" keyTimes="0;0.12;0.30;0.33;1"/></rect></clipPath>
+    <clipPath id="t2"><rect x="420" y="196" height="30" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;480;480;0;0" keyTimes="0;0.33;0.45;0.63;0.66;1"/></rect></clipPath>
+    <clipPath id="t3"><rect x="420" y="196" height="30" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;480;480;0;0" keyTimes="0;0.66;0.78;0.96;0.99;1"/></rect></clipPath>
+  </defs>
+
+  <g fill="none" stroke="#0891B2" stroke-width="1.5" opacity="0.7">
+    <path d="M8 40 V8 H40"/><path d="M1160 8 H1192 V40"/>
+    <path d="M8 260 V292 H40"/><path d="M1192 260 V292 H1160"/>
+  </g>
+  <g font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="12" letter-spacing="3" fill="#59636E">
+    <text x="56" y="30">~/akhandchauhan</text>
+    <text x="1144" y="30" text-anchor="end">● available</text>
+    <text x="56" y="282">ingest → transform → serve</text>
+    <text x="1144" y="282" text-anchor="end">2026</text>
+  </g>
+
+  <text x="600" y="120" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="68" letter-spacing="4" fill="#1F2328">Akhand Chauhan</text>
+  <rect x="570" y="140" width="60" height="2" fill="#0891B2"/>
+  <text x="600" y="174" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="15" letter-spacing="6" fill="#59636E">DATA ENGINEER</text>
+
+  <g font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="17" fill="#24292F">
+    <text x="396" y="216" fill="#0891B2">&gt;</text>
+    <text x="420" y="216" clip-path="url(#t1)" textLength="480" lengthAdjust="spacingAndGlyphs">building data pipelines that run on schedule</text>
+    <text x="420" y="216" clip-path="url(#t2)" textLength="480" lengthAdjust="spacingAndGlyphs">python · sql · pyspark · airflow · gcp · dbt</text>
+    <text x="420" y="216" clip-path="url(#t3)" textLength="480" lengthAdjust="spacingAndGlyphs">fail gracefully · scale predictably · observe</text>
+    <rect y="202" width="9" height="18" fill="#0891B2">
+      <animate attributeName="x" dur="12s" repeatCount="indefinite" values="422;904;904;422;422;904;904;422;422;904;904;422" keyTimes="0;0.12;0.30;0.33;0.33;0.45;0.63;0.66;0.66;0.78;0.96;1"/>
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+  </g>
+</svg>

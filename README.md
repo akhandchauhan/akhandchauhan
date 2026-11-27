@@ -1,55 +1,52 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Akhand Chauhan — Data Engineer" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+  <img src="assets/banner-dark.svg" width="100%" alt="Akhand Chauhan — Data Engineer" />
+</picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akhandchauhan47/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117" /></a>
-  <a href="https://leetcode.com/u/Panda_Singh/"><img src="https://img.shields.io/badge/LEETCODE-Panda__Singh-FFB800?style=for-the-badge&logo=leetcode&logoColor=FFB800&labelColor=0D1117" /></a>
-  <a href="https://github.com/akhandchauhan/daily-data-engineering-practice"><img src="https://img.shields.io/badge/DAILY-SQL_%2B_PANDAS-FF2BD6?style=for-the-badge&logo=github&logoColor=FF2BD6&labelColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/akhandchauhan47/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22D3EE" /></a>
+  <a href="https://leetcode.com/u/Panda_Singh/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=22D3EE" /></a>
+  <a href="https://github.com/akhandchauhan/daily-data-engineering-practice"><img src="https://img.shields.io/badge/Daily_Practice-0D1117?style=flat-square&logo=github&logoColor=22D3EE" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" />
+<br/>
 
-## `01` ▸ WHOAMI
+### `>` whoami
 
 ```yaml
-role:     Data Engineer
-builds:   data pipelines & analytics platforms
-range:    local PySpark/Airflow  →  cloud-native ETL on GCP
-learning: dbt (warehouse transformation + testing)
+role:     data engineer
+builds:   pipelines & analytics platforms
+range:    local pyspark/airflow → cloud-native etl on gcp
+learning: dbt
 ```
 
-## `02` ▸ ACTIVE MISSIONS
+### `>` projects
 
-| Mission | Stack | What it does |
-|---|---|---|
-| 🚕 [**NYC-Uber-Analytics-Using-GCP-MAGE**](https://github.com/akhandchauhan/NYC-Uber-Analytics-Using-GCP-MAGE) | GCP · Mage · BigQuery | End-to-end pipeline: ingestion → transformation → warehouse → BI |
-| 🌋 [**EarthquakeMonitor_MSFabric**](https://github.com/akhandchauhan/EarthquakeMonitor_MSFabric) | Microsoft Fabric | Medallion lakehouse: bronze → silver → gold |
-| 🌀 [**Airflow_practice**](https://github.com/akhandchauhan/Airflow_practice) | Apache Airflow | Branching, trigger rules, TaskFlow API |
-| ⚡ [**daily-data-engineering-practice**](https://github.com/akhandchauhan/daily-data-engineering-practice) | SQL · Pandas | 226 SQL solutions + 176 pandas notebooks, solved daily |
+- [**NYC-Uber-Analytics-Using-GCP-MAGE**](https://github.com/akhandchauhan/NYC-Uber-Analytics-Using-GCP-MAGE) — ingestion → transformation → warehouse → BI on GCP + Mage
+- [**EarthquakeMonitor_MSFabric**](https://github.com/akhandchauhan/EarthquakeMonitor_MSFabric) — medallion lakehouse, bronze → silver → gold
+- [**Airflow_practice**](https://github.com/akhandchauhan/Airflow_practice) — branching, trigger rules, TaskFlow API
+- [**daily-data-engineering-practice**](https://github.com/akhandchauhan/daily-data-engineering-practice) — 226 SQL solutions + 176 pandas notebooks
 
-<img src="assets/divider.svg" width="100%" />
+### `>` stack
 
-## `03` ▸ TECH STACK
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,mysql,docker,gcp,fastapi,git,github,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql,docker,gcp,fastapi,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,docker,gcp,fastapi,git,github,vscode&theme=dark" alt="python, mysql, docker, gcp, fastapi, git, github, vscode" />
+</picture>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,docker,gcp,fastapi,vscode&theme=dark" />
-</p>
+`pyspark` · `airflow` · `dbt` · `mage`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PYSPARK-0D1117?style=for-the-badge&logo=apachespark&logoColor=FF2BD6" />
-  <img src="https://img.shields.io/badge/APACHE_AIRFLOW-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/DBT_(LEARNING)-0D1117?style=for-the-badge&logo=dbt&logoColor=FFB800" />
-  <img src="https://img.shields.io/badge/MAGE-0D1117?style=for-the-badge&logoColor=8A5CFF" />
-</p>
+### `>` stats
 
-## `04` ▸ TELEMETRY
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhandchauhan/akhandchauhan/stats/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhandchauhan/akhandchauhan/stats/stats-light.svg" />
+  <img src="https://raw.githubusercontent.com/akhandchauhan/akhandchauhan/stats/stats-dark.svg" alt="GitHub stats" />
+</picture>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akhandchauhan&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2bd6&text_color=c9f6ff" />
-  <img height="170" src="https://streak-stats.demolab.com?user=akhandchauhan&hide_border=true&background=0D1117&ring=8A5CFF&fire=FF2BD6&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2BD6&sideLabels=C9F6FF&dates=5FD8FF&stroke=1B2A55" />
-</p>
+<br/>
+<br/>
 
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Fail gracefully, scale predictably, stay observable" />
-</p>
+<sub>fail gracefully · scale predictably · stay observable</sub>

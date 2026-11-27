@@ -1,84 +1,55 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Akhand Chauhan — Data Engineer" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Akhand%20Chauhan&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20Engineer%20%C2%B7%20Building%20Pipelines%20That%20Scale&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhandchauhan47/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117" /></a>
+  <a href="https://leetcode.com/u/Panda_Singh/"><img src="https://img.shields.io/badge/LEETCODE-Panda__Singh-FFB800?style=for-the-badge&logo=leetcode&logoColor=FFB800&labelColor=0D1117" /></a>
+  <a href="https://github.com/akhandchauhan/daily-data-engineering-practice"><img src="https://img.shields.io/badge/DAILY-SQL_%2B_PANDAS-FF2BD6?style=for-the-badge&logo=github&logoColor=FF2BD6&labelColor=0D1117" /></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Building+data+pipelines+that+run+on+schedule;Python+%7C+SQL+%7C+PySpark;Airflow+%7C+GCP+%7C+Docker;ETL+%7C+Data+Modeling+%7C+Orchestration" />
+<img src="assets/divider.svg" width="100%" />
 
-<a href="https://www.linkedin.com/in/akhandchauhan47/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## `01` ▸ WHOAMI
 
-</div>
+```yaml
+role:     Data Engineer
+builds:   data pipelines & analytics platforms
+range:    local PySpark/Airflow  →  cloud-native ETL on GCP
+learning: dbt (warehouse transformation + testing)
+```
 
-<br/>
+## `02` ▸ ACTIVE MISSIONS
 
-## About
+| Mission | Stack | What it does |
+|---|---|---|
+| 🚕 [**NYC-Uber-Analytics-Using-GCP-MAGE**](https://github.com/akhandchauhan/NYC-Uber-Analytics-Using-GCP-MAGE) | GCP · Mage · BigQuery | End-to-end pipeline: ingestion → transformation → warehouse → BI |
+| 🌋 [**EarthquakeMonitor_MSFabric**](https://github.com/akhandchauhan/EarthquakeMonitor_MSFabric) | Microsoft Fabric | Medallion lakehouse: bronze → silver → gold |
+| 🌀 [**Airflow_practice**](https://github.com/akhandchauhan/Airflow_practice) | Apache Airflow | Branching, trigger rules, TaskFlow API |
+| ⚡ [**daily-data-engineering-practice**](https://github.com/akhandchauhan/daily-data-engineering-practice) | SQL · Pandas | 226 SQL solutions + 176 pandas notebooks, solved daily |
 
-I build data pipelines and analytics platforms — from local PySpark/Airflow environments to cloud-native ETL on GCP.
+<img src="assets/divider.svg" width="100%" />
 
-- 🔭 End-to-end pipelines: ingestion → transformation → warehouse → BI (see [NYC-Uber-Analytics-Using-GCP-MAGE](https://github.com/akhandchauhan/NYC-Uber-Analytics-Using-GCP-MAGE))
-- 🏗️ Lakehouse / medallion architecture (bronze → silver → gold) on Microsoft Fabric (see [EarthquakeMonitor_MSFabric](https://github.com/akhandchauhan/EarthquakeMonitor_MSFabric))
-- 🌀 Orchestration with Apache Airflow — branching, trigger rules, TaskFlow API (see [Airflow_practice](https://github.com/akhandchauhan/Airflow_practice))
-- 📚 Currently deepening dbt for warehouse transformation and testing
+## `03` ▸ TECH STACK
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,docker,gcp,fastapi,vscode&theme=dark" />
+</p>
 
-## Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/PYSPARK-0D1117?style=for-the-badge&logo=apachespark&logoColor=FF2BD6" />
+  <img src="https://img.shields.io/badge/APACHE_AIRFLOW-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/DBT_(LEARNING)-0D1117?style=for-the-badge&logo=dbt&logoColor=FFB800" />
+  <img src="https://img.shields.io/badge/MAGE-0D1117?style=for-the-badge&logoColor=8A5CFF" />
+</p>
 
-<div align="center">
+## `04` ▸ TELEMETRY
 
-**Core & Tools**
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akhandchauhan&show_icons=true&hide_rank=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2bd6&text_color=c9f6ff" />
+  <img height="170" src="https://streak-stats.demolab.com?user=akhandchauhan&hide_border=true&background=0D1117&ring=8A5CFF&fire=FF2BD6&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=FF2BD6&sideLabels=C9F6FF&dates=5FD8FF&stroke=1B2A55" />
+</p>
 
-![Skills](https://skillicons.dev/icons?i=python,mysql,git,github,docker,gcp,fastapi,vscode)
-
-**Data Engineering**
-
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt_(learning)-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Mage](https://img.shields.io/badge/Mage-9563FF?style=for-the-badge)
-
-**Cloud & BI**
-
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-1F6E43?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-
-</div>
-
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akhandchauhan&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhandchauhan&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akhandchauhan&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<br/>
-
-## Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akhandchauhan/akhandchauhan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akhandchauhan/akhandchauhan/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/akhandchauhan/akhandchauhan/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
-<br/>
-
-## Philosophy
-
-> Build systems that **fail gracefully**,
-> scale **predictably**,
-> and remain **observable** at every layer.
-
-<div align="center">
-<sub>⚡ Engineering data systems that scale, observe, and endure.</sub>
-</div>
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Fail gracefully, scale predictably, stay observable" />
+</p>
